@@ -1,21 +1,18 @@
-MIT License
+# E-commerce Web Application
 
-Copyright (c) 2026 deepthi-kandaram
+A full-stack responsive e-commerce web platform designed to streamline product browsing, user account management, cart operations, and order processing with interactive database management.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## 📌 Features
+- **User Authentication**: Secure user registration, login, and profile management.
+- **Product Catalog**: Dynamic product listings with search, category filtering, and sorting functionality.
+- **Shopping Cart & Checkout**: Interactive shopping cart management with order summary and checkout workflow.
+- **Database Integration**: Relational database schema to track products, inventory, registered users, and purchase histories.
+- **Responsive Interface**: Mobile-friendly, intuitive user interface for seamless shopping across devices.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## 🛠 Tech Stack
+- **Frontend**: HTML5, Cascading Style Sheets (CSS), JavaScript
+- **Backend / Database**: SQL / MySQL / PostgreSQL
+- **Design Frameworks**: CSS Grid, Flexbox, Bootstrap / Tailwind CSS
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## 📜 License
+Distributed under the MIT License.
